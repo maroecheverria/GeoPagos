@@ -16,7 +16,7 @@ To run the Symfony application please follow these steps:
 
  * ```-git clone https://github.com/maroecheverria/GeoPagos.git```
  
- * composer install
+ * ```composer install```
  
  * browse to the project directory and execute this command ```$ php bin/console server:run```
  
