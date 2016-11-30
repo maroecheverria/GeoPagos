@@ -14,13 +14,13 @@ En caso de conocer la notación se valorará el diseño de su diagrama UML.
 
 To run the Symfony application please follow these steps:
 
- * git clone https://github.com/maroecheverria/GeoPagos.git
+ * ```-git clone https://github.com/maroecheverria/GeoPagos.git```
  
  * composer install
  
  * browse to the project directory and execute this command ```$ php bin/console server:run```
  
- * open your browser and access the http://localhost:8000/shapes URL
+ * open your browser and access [http://localhost:8000/shapes](http://localhost:8000/shapes)
  
  **Enjoy!**
 
